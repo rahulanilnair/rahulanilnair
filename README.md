@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in open sour
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulanilnaire&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulanilnair&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulanilnair&layout=compact&theme=radical)
 
 ---
