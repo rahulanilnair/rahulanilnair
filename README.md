@@ -13,9 +13,15 @@ Welcome to my GitHub profile! I'm a passionate developer interested in open sour
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-anil-nair/)
-[![Website](https://img.shields.io/badge/Website-YourSite-orange?logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rahulanilnair6@gmail.com)
+<a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/icons/regular/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
+</a>
+<a href="https://yourwebsite.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/icons/regular/web.svg" width="40" height="40" alt="Website"/>
+</a>
+<a href="mailto:youremail@example.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/icons/regular/mail.svg" width="40" height="40" alt="Mail"/>
+</a>
 
 ---
 
