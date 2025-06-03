@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in open sour
 ## 🔗 Connect with Me
 
 <a href="https://linkedin.com/in/yourprofile" target="_blank">
-  <img src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg" width="40" height="40" alt="LinkedIn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn"/>
 </a>
 <a href="https://yourwebsite.com" target="_blank">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/icons/regular/web.svg" width="40" height="40" alt="Website"/>
