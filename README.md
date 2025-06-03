@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in open sour
   <img src="https://img.icons8.com/ios-filled/50/ffffff/internet.png" width="40" height="40" alt="Website"/>
 </a>
 <a href="mailto:youremail@example.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/icons/regular/mail.svg" width="40" height="40" alt="Mail"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" width="40" height="40" alt="Mail"/>
 </a>
 
 ---
