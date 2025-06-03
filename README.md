@@ -4,17 +4,11 @@ Welcome to my GitHub profile! I'm a passionate developer interested in open sour
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulanilnair&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulanilnair&layout=compact&theme=radical)
-
----
 
 ## 🔗 Connect with Me
 
 <a href="https://linkedin.com/in/yourprofile" target="_blank">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/icons/regular/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
+  <img src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg" width="40" height="40" alt="LinkedIn"/>
 </a>
 <a href="https://yourwebsite.com" target="_blank">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/icons/regular/web.svg" width="40" height="40" alt="Website"/>
